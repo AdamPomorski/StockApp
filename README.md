@@ -4,4 +4,9 @@ Simple application that provides user with information from stock market based o
 
 # How to run
 
-To run this project it is only required to add the field: API_KEY="<YOUR_ALPHANTAGE_KEY" to gradle.properties file and build the project. The api key is available for free <a href"https://www.alphavantage.co/">there</a>. 
+To run this project it is only required to add the field: API_KEY="<YOUR_ALPHANTAGE_KEY" to gradle.properties file and build the project. The api key is available for free <a href="https://www.alphavantage.co/">there</a>. 
+
+<p align="center">
+    <img src="img/first_screen.png" alt="First screen" width="305"/>
+   <img src="img/second_screen.png" alt="Second screen" width="300"/>
+</p>
